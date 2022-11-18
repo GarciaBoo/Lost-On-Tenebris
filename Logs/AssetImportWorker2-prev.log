@@ -1,0 +1,345 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.10f1 (1c7d0df0160b) revision 1867021'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'pt' Physical Memory: 12177 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/UNITY PROJETOS/Lost-On-Tenebris
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51279
+Successfully changed project path to: E:/UNITY PROJETOS/Lost-On-Tenebris
+E:/UNITY PROJETOS/Lost-On-Tenebris
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 80.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.10f1 (1c7d0df0160b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UNITY PROJETOS/Lost-On-Tenebris/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   30.0.14029.1011
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.010143 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 78.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.654 seconds
+Domain Reload Profiling:
+	ReloadAssembly (655ms)
+		BeginReloadAssembly (75ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (469ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (105ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (286ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (57ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003203 seconds.
+Android Extension - Scanning For ADB Devices 4816 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UNITY PROJETOS\Lost-On-Tenebris\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\UNITY PROJETOS\Lost-On-Tenebris\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 78.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.112 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2113ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1846ms)
+			LoadAssemblies (1033ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (471ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Failed to load shader (instanceID 398, GUID 9c442dc870b456e48b615cd8add0e9ef)
+Failed to load shader (instanceID 396, GUID 493b79ea9c9be44ed8b702014d3ac49c)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3724 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (56.5 KB). Loaded Objects now: 4186.
+Memory consumption went from 131.3 MB to 131.3 MB.
+Total: 3.537200 ms (FindLiveObjects: 0.367900 ms CreateObjectMapping: 0.122400 ms MarkObjects: 2.961000 ms  DeleteObjects: 0.084300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 218262.588199 seconds.
+  path: Assets/Models e Textures/Models/PAINEL.blend
+  artifactKey: Guid(0809567bd57678848bed4b5dc6f10a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Models/PAINEL.blend using Guid(0809567bd57678848bed4b5dc6f10a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6053a879cdaf87e481727d5def4f06') in 0.651761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 169.550359 seconds.
+  path: Assets/Models e Textures/Models/GALAOGAS 1.blend
+  artifactKey: Guid(0780bccccedcc284a8c61e5bd4d52315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Models/GALAOGAS 1.blend using Guid(0780bccccedcc284a8c61e5bd4d52315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1d0d3b64cebef54e32721b0d902900') in 0.094186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.107454 seconds.
+  path: Assets/Models e Textures/Models/GALAOGAS.blend
+  artifactKey: Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Models/GALAOGAS.blend using Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49e66cf1f93c3407ab9e2f3caaad961') in 0.096420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.161322 seconds.
+  path: Assets/Models e Textures/Materiais/Painel.mat
+  artifactKey: Guid(53756e63353422547a0003e9624e2f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/Painel.mat using Guid(53756e63353422547a0003e9624e2f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce22d56aca847bdae90d83aea5a0213') in 0.040841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Models e Textures/Materiais/PainelLCD.mat
+  artifactKey: Guid(6d985eab62f89d0438382c711f7972c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/PainelLCD.mat using Guid(6d985eab62f89d0438382c711f7972c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a3a426db70f35c25b0dcf0bb6ca64e') in 0.041161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.408447 seconds.
+  path: Assets/Models e Textures/Textures/New Material.mat
+  artifactKey: Guid(5244e1ddb30688a49b8dcc5b459308fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/New Material.mat using Guid(5244e1ddb30688a49b8dcc5b459308fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d3c6918caedcd9156bb2eb8a585b69') in 0.011163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.977975 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas
+  artifactKey: Guid(4905e3b790bcfe24a939ff95f5231496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas using Guid(4905e3b790bcfe24a939ff95f5231496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7a65f4f00c8b6456f30aa05920b45d') in 0.004403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.609424 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Base_Color.png
+  artifactKey: Guid(db921cedec66bf9498bf4eb4588796e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Base_Color.png using Guid(db921cedec66bf9498bf4eb4588796e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3413cce499afb3024c68bf3b31d958c1') in 0.057755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/Material_Metallic.png
+  artifactKey: Guid(e9a54c98815b8004c9f789088a3e6176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/Material_Metallic.png using Guid(e9a54c98815b8004c9f789088a3e6176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5327719afc688bd5fa7ba0c9caf620') in 0.016003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/Material_Base_Color.png
+  artifactKey: Guid(6139be1cfc8c0a848b8f34ac2b6b3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/Material_Base_Color.png using Guid(6139be1cfc8c0a848b8f34ac2b6b3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959b20dce4ff4b79cb8a1ddaba306c7f') in 0.017857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat3_Metallic.png
+  artifactKey: Guid(df55a631bbdb0594bb185f9ef479d108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat3_Metallic.png using Guid(df55a631bbdb0594bb185f9ef479d108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805059686a0bd2b2013481a7159f1c5a') in 0.016858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat3_Base_Color.png
+  artifactKey: Guid(370e142eafbd4fc4e87fca5cab076d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat3_Base_Color.png using Guid(370e142eafbd4fc4e87fca5cab076d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64fc31c72b0a51897edf087d6989962') in 0.018396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.956945 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Normal.png
+  artifactKey: Guid(8883d9dd5ab9e6a40bd706c6598b48d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Normal.png using Guid(8883d9dd5ab9e6a40bd706c6598b48d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009f5d1ad56a17249ca0f7a43e7960d0') in 0.013634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.338107 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Normal.png
+  artifactKey: Guid(8883d9dd5ab9e6a40bd706c6598b48d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat1_Normal.png using Guid(8883d9dd5ab9e6a40bd706c6598b48d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e249ce0763c7a1dcf0b5b435b0f19572') in 0.013822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.310366 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat2_Normal.png
+  artifactKey: Guid(fba39300fd8522e45af8a612ef6f8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat2_Normal.png using Guid(fba39300fd8522e45af8a612ef6f8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2154b992030ecd83581153195e27985b') in 0.029943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.066613 seconds.
+  path: Assets/Models e Textures/Textures/GalaoGas/GalaoMat2_Normal.png
+  artifactKey: Guid(fba39300fd8522e45af8a612ef6f8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Textures/GalaoGas/GalaoMat2_Normal.png using Guid(fba39300fd8522e45af8a612ef6f8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fce52f418c4a3d732f54f51c060acd1') in 0.038060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.393104 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat1.mat
+  artifactKey: Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat1.mat using Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40deb2770bc5960e09bf85b9d141f8bd') in 0.010488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.800748 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat2.mat
+  artifactKey: Guid(2398db1a83c4a0846959f2af217f7d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat2.mat using Guid(2398db1a83c4a0846959f2af217f7d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc946e7f7fe50b7ba6584dbb3f4b2ea0') in 0.010792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.436925 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat3.mat
+  artifactKey: Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat3.mat using Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aabf44fd0799392c2eb276e8764fb04') in 0.024676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.261539 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat4.mat
+  artifactKey: Guid(8ada36b8bc87b3b4f93bd8c8b56e8679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat4.mat using Guid(8ada36b8bc87b3b4f93bd8c8b56e8679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8198c85b6ff7c528fc45af51f4bb4781') in 0.024854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.631064 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoSuporte.mat
+  artifactKey: Guid(307031f776c49a04d99cd313a49f4f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoSuporte.mat using Guid(307031f776c49a04d99cd313a49f4f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e1ca02ef351b5282ea74d66c0768ec') in 0.010621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 172.826445 seconds.
+  path: Assets/Models e Textures/Models/GALAOGAS.blend
+  artifactKey: Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Models/GALAOGAS.blend using Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be991361eb64417c93ec74b8fc35220') in 0.060858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 95.743133 seconds.
+  path: Assets/Models e Textures/Models/GALAOGAS.blend
+  artifactKey: Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Models/GALAOGAS.blend using Guid(a097ebe93437b2a4dad94cc750243bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd0b0263de55af468870e1d94ac8087') in 0.073278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.512440 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat1.mat
+  artifactKey: Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat1.mat using Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0647195ae6b13ce14f54d14043197d') in 0.011694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoSuporte.mat
+  artifactKey: Guid(307031f776c49a04d99cd313a49f4f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoSuporte.mat using Guid(307031f776c49a04d99cd313a49f4f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61637dc9062aefe3d300e7c03c10435b') in 0.011003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat3.mat
+  artifactKey: Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat3.mat using Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2869312121423ddc6d726b427919b5') in 0.010661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.690196 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat1.mat
+  artifactKey: Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat1.mat using Guid(c19c5fd05687e5d4bb2d94174dd58ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a14da147c3fda907bb3b45d16f188f2') in 0.031218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Models e Textures/Materiais/GalaoMat3.mat
+  artifactKey: Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Materiais/GalaoMat3.mat using Guid(49c0f3643be29e14cbb4e5a0ab410415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e173530795f595da8bad9abccff13f38') in 0.015496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.714575 seconds.
+  path: Assets/Models e Textures/Prefabs/GALAOGAS.prefab
+  artifactKey: Guid(79a75e3e7b8c5ee4cabaf72386fa597b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models e Textures/Prefabs/GALAOGAS.prefab using Guid(79a75e3e7b8c5ee4cabaf72386fa597b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e942c84482681c9c705924f9924fcc83') in 0.030376 seconds 
