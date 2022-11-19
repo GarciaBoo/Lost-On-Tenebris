@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b4ff763b-c427-40fc-a403-65e536065800}">
+		<property name="assetPath">
+			<value>broken-light-bulb-sound-effect.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.0371882086167803</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eeece331-7cd7-484e-bf5e-302987894de0}</destination>
+		</relationship>
+	</object>
+</objects>
