@@ -18,6 +18,10 @@ namespace LostOnTenebris
         [SerializeField] private bool locked = false;
         [SerializeField] private string openAnimatorStateName;
         [SerializeField] private string closedAnimatorStateName;
+
+        [Header("Alert message if closed")]
+        [SerializeField] private HUDController hudController = null;
+        [SerializeField] private string alertMessage = null;
         
         private bool open = false;
         private static readonly int toggle = Animator.StringToHash("Toggle");
@@ -33,6 +37,10 @@ namespace LostOnTenebris
             } else if (locked)
             {
                 RuntimeManager.PlayOneShotAttached(onLocked, doorTransform);
+                if(hudController != null && alertMessage != null)
+                {
+                    hudController.Alert(alertMessage);
+                }
             }
         }
         

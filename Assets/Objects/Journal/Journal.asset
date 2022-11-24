@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: Journal
   m_EditorClassIdentifier: 
   entries:
-  - {fileID: 11400000, guid: 2708401046c9d2648bdf24abb5a9f8ca, type: 2}
   - {fileID: 11400000, guid: ae9f24b9721d3574c8fecaa6ed14a308, type: 2}
   - {fileID: 11400000, guid: 12f90eef92bec8645a648e28c7d58bac, type: 2}
   - {fileID: 11400000, guid: 5525071375c9d914799fcdaace83192a, type: 2}

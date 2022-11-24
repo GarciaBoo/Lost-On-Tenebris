@@ -138,7 +138,7 @@ MonoBehaviour:
         m_CallState: 2
   set: {fileID: 11400000, guid: 4521ecc4db473744eaedf0c482124a23, type: 2}
   invisible: 1
-  prompt: open door
+  prompt: abrir
 --- !u!1001 &3026758218977038202
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
         m_CallState: 2
   set: {fileID: 11400000, guid: 4521ecc4db473744eaedf0c482124a23, type: 2}
   invisible: 1
-  prompt: open door
+  prompt: abrir
 --- !u!4 &7595938132903872119 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4857983138188134669, guid: 3ad5b90935d8c524097f1f89116cff86, type: 3}
