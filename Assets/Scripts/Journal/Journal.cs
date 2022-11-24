@@ -12,7 +12,15 @@ namespace LostOnTenebris
 
         public void Add(JournalEntry entry)
         {
-            entries.Add(entry);
+            if(entries.Contains(entry) == false)
+            {
+                entries.Add(entry);
+            }
+        }
+
+        public void Clear()
+        {
+            entries.Clear();
         }
     }
 }

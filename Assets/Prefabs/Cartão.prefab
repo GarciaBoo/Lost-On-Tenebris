@@ -124,6 +124,6 @@ MonoBehaviour:
           m_StringArgument: "cart\xE3o coletado"
           m_BoolArgument: 0
         m_CallState: 2
-  set: {fileID: 0}
+  set: {fileID: 11400000, guid: 4521ecc4db473744eaedf0c482124a23, type: 2}
   invisible: 0
   prompt: "coletar cart\xE3o"
