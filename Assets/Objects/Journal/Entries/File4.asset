@@ -12,9 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File4
   m_EditorClassIdentifier: 
-  title: Arquivo 4
-  content: "Ele havia prometido buscar ajuda. Em um desesperado ato de valentia,
-    \r\nultrapassou esta porta. Jamais retornou, ningu\xE9m jamais retornou. \r\nGrunhidos
-    v\xEAm dos corredores detr\xE1s desta porta. Jamais cessaram, \r\njamais cessar\xE3o.
-    Passaram-se anos. Os suprimentos est\xE3o acabando. \r\nPrecisamos sair. Morreremos
-    se sair. Morreremos se ficarmos. \r\nSalve-nos."
+  title: "Divis\xE3o"
+  content: "Ap\xF3s a Queda, o mecanismo de seguran\xE7a da Espa\xE7onave fora acionado
+    \u2014 de modo a cerrar todas as portas principais, as quais concediam acesso
+    \xE0s diferentes se\xE7\xF5es do ve\xEDculo. Tal fen\xF4meno dividiu a \xE1rea
+    de conv\xEDvio entre as alas Oeste e Leste, cada qual com seus pr\xF3prios dormit\xF3rios,
+    banheiros e demais c\xF4modos pr\xF3prios. Desse modo, os cart\xF5es de acesso
+    ficaram ao Oeste, na sala de Guarda, dispon\xEDveis a quaisquer sobreviventes
+    deste lado da Espa\xE7onave."

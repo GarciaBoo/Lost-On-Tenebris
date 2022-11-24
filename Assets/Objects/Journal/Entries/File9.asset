@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File9
+  m_EditorClassIdentifier: 
+  title: "Os Armaz\xE9ns"
+  content: "Um grupo decidiu ir at\xE9 os armaz\xE9ns. De nossa parte, optamos por
+    ficar na seguran\xE7a das \xE1reas comuns, mesmo que em um grupo menor, mantendo
+    contato por comunica\xE7\xE3o remota. Eles foram devorados. Um a um, ouvimos
+    aquela Coisa se alimentar de seus cad\xE1veres, n\xE3o antes de escutarmos seu
+    desespero conforme eram rasgados em peda\xE7os; n\xE3o havia como silenciar os
+    dispositivos, foram programados para continuar a transmiss\xE3o at\xE9 a desconex\xE3o
+    manual, ent\xE3o continuamos os escutando at\xE9 o final de suas baterias. Demorou.
+    Demorou muito. O \xFAltimo deles, em suas palavras finais, repetia, como em transe,
+    uma sequ\xEAncia num\xE9rica. Algo como \u201C1,3,2,1\u201D. Ou ser\xE1 que havia
+    mais um dois? Talvez \u201C1,3,2,1,2\u201D ou \u201C1,3,2,2,1\u201D. Disseram
+    que os escombros tornaram o local em um labirinto; isso fez dos armaz\xE9ns o
+    abatedouro perfeito para a Criatura."

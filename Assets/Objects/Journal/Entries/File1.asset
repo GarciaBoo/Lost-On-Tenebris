@@ -12,21 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File1
   m_EditorClassIdentifier: 
-  title: Arquivo 1
-  content: "Quando a Escurid\xE3o come\xE7ou a tomar o local, a tripula\xE7\xE3o
-    entrou em desespero. \r\nMuitos tentaram atravessar a ala dos dep\xF3sitos: rumavam
-    \xE0 sa\xEDda pr\xF3xima \xE0 \r\nsala das m\xE1quinas. Aos que permane\xE7eram
-    na seguran\xE7a das \xE1reas comuns, \r\ngrunhidos, gritos e o rasgar de ossos
-    tomaram o longo sil\xEAncio do local.\r\nDesse dia em diante, souberam que o
-    atrevimento de atravessar aquela porta \r\nseria o seu fim.\n\nQuando a Escurid\xE3o
-    come\xE7ou a tomar o local, a tripula\xE7\xE3o entrou em desespero. \r\nMuitos
-    tentaram atravessar a ala dos dep\xF3sitos: rumavam \xE0 sa\xEDda pr\xF3xima
-    \xE0 \r\nsala das m\xE1quinas. Aos que permane\xE7eram na seguran\xE7a das \xE1reas
-    comuns, \r\ngrunhidos, gritos e o rasgar de ossos tomaram o longo sil\xEAncio
-    do local.\r\nDesse dia em diante, souberam que o atrevimento de atravessar aquela
-    porta \r\nseria o seu fim.\n\nQuando a Escurid\xE3o come\xE7ou a tomar o local,
-    a tripula\xE7\xE3o entrou em desespero. \r\nMuitos tentaram atravessar a ala
-    dos dep\xF3sitos: rumavam \xE0 sa\xEDda pr\xF3xima \xE0 \r\nsala das m\xE1quinas.
-    Aos que permane\xE7eram na seguran\xE7a das \xE1reas comuns, \r\ngrunhidos, gritos
-    e o rasgar de ossos tomaram o longo sil\xEAncio do local.\r\nDesse dia em diante,
-    souberam que o atrevimento de atravessar aquela porta \r\nseria o seu fim."
+  title: Lanterna
+  content: "Prevendo poss\xEDveis falhas do sistema de alimenta\xE7\xE3o el\xE9trica
+    da espa\xE7onave, o modelo foi equipado com centrais de recarga providas de baterias
+    pr\xF3prias \u2014 as quais poderiam ser utilizadas, em circunst\xE2ncias emergenciais,
+    para recarregar quaisquer aparelhos el\xE9tricos. Desse modo, cada tripulante
+    tamb\xE9m fora provido com uma lanterna recarreg\xE1vel, que pode utilizar tais
+    centrais para seu reabastecimento energ\xE9tico."
