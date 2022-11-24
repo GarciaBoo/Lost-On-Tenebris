@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File14
   m_EditorClassIdentifier: 
-  title: Arquivo 4
+  title: "Sa\xEDdas"
   content: "\u201CA vida \xE9 um labirinto. Alguns ficam vagando, procurando uma
     sa\xEDda. Mas s\xF3 existe um caminho, que o leva para o fundo. E voc\xEA s\xF3
     entende quando chega ao centro.\u201D (Dark)"

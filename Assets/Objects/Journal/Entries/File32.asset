@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File32
   m_EditorClassIdentifier: 
-  title: Arquivo 4
-  content: "N\xE3o tema o escuro, deixe-o envolv\xEA-lo."
+  title: '?'
+  content: "Est\xE1 no caminho certo. Venha. Vamos te libertar."

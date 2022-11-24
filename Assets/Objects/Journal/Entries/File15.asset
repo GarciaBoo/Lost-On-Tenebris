@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File15
   m_EditorClassIdentifier: 
-  title: Arquivo 4
+  title: "A Escurid\xE3o"
   content: "O ar parece mais espesso por aqui; \xE9 como se a pr\xF3pria escurid\xE3o
     estivesse se materializando, como um v\xEDrus tentando dominar um organismo.
     Rapidamente, preenche nossos pulm\xF5es, e a inspira\xE7\xE3o se dificulta; contra

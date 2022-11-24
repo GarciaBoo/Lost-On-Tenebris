@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File1
   m_EditorClassIdentifier: 
-  title: Arquivo 1
+  title: Lanterna
   content: "Prevendo poss\xEDveis falhas do sistema de alimenta\xE7\xE3o el\xE9trica
     da espa\xE7onave, o modelo foi equipado com centrais de recarga providas de baterias
     pr\xF3prias \u2014 as quais poderiam ser utilizadas, em circunst\xE2ncias emergenciais,

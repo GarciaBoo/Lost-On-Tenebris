@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File20
   m_EditorClassIdentifier: 
-  title: Arquivo 4
+  title: Estranheza
   content: "\u201C\xC9 suficiente dizer o verdadeiro de uma maneira estranha, para
     que o estranho acabe por sua vez por parecer verdade.\u201D (Johann Goethe)"

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File2
   m_EditorClassIdentifier: 
-  title: Arquivo 2
+  title: Dificuldades
   content: "\u201CVoc\xEA n\xE3o pode evitar que a dificuldade bata \xE0 sua porta;
     mas n\xE3o h\xE1 necessidade de oferecer-lhe uma cadeira.\u201D (Joseph Joubert)"

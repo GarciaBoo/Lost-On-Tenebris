@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File9
   m_EditorClassIdentifier: 
-  title: Arquivo 4
+  title: "Os Armaz\xE9ns"
   content: "Um grupo decidiu ir at\xE9 os armaz\xE9ns. De nossa parte, optamos por
     ficar na seguran\xE7a das \xE1reas comuns, mesmo que em um grupo menor, mantendo
     contato por comunica\xE7\xE3o remota. Eles foram devorados. Um a um, ouvimos

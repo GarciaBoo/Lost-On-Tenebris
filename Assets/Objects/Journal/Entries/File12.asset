@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
   m_Name: File12
   m_EditorClassIdentifier: 
-  title: Arquivo 4
+  title: "Relat\xF3rio"
   content: "Com os escombros no corredor central, nossa equipe se dividiu em duas:
     uma foi para o Oeste, \xE0 esquerda, e a outra foi para o Leste, \xE0 direita.
     Conseguimos trocar informa\xE7\xF5es durante um tempo antes da Criatura come\xE7ar
