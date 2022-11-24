@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: f61c6231f0cdc714e9e17bb2e02ecc66
+guid: 16b0f9640b9a1cf43ab8a44dc39931be
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CanosSafeBase2
+    second: {fileID: 2100000, guid: 0ec01140307c0b94b8bc7a9ef34723e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JanelasSafebase2
+    second: {fileID: 2100000, guid: 8a3b20aba254e6a4e8e99d985901ba65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SafeBaseMeio.002
+    second: {fileID: 2100000, guid: aaa6b6ebc576a06438a50ccab0307a26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +50,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -88,7 +103,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.1
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
