@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e42142b64c9579244b1c4bef4ed382e7
+guid: d7dd84d53d5779d49b60939a33bd80de
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: JanelasSafebase2
-    second: {fileID: 2100000, guid: 8a3b20aba254e6a4e8e99d985901ba65, type: 2}
+    second: {fileID: 2100000, guid: 0d86f2286712ade4595ee0ef2101db70, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

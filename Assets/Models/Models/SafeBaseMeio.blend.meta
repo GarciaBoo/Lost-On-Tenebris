@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c973cc0cba067f47b99ee1ea74693bf
+guid: 3d18bf69f2b750b48b5bbfcec0dba780
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,38 +7,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BASE1
-    second: {fileID: 2100000, guid: 1111ac5b8ded3bd44b7c146189e63cad, type: 2}
+      name: CanosCimaSafeBase
+    second: {fileID: 2100000, guid: 0ec01140307c0b94b8bc7a9ef34723e0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BASE1.001
-    second: {fileID: 2100000, guid: 1111ac5b8ded3bd44b7c146189e63cad, type: 2}
+      name: "Corrim\xE3oSafeBase.001"
+    second: {fileID: 2100000, guid: d73867f0dbf59554f99cad0d4b946bc7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: CHAO.001
-    second: {fileID: 2100000, guid: e04c7903d11c4db43a53eb50cbc09d81, type: 2}
+      name: JanelasSafebase1
+    second: {fileID: 2100000, guid: 8a3b20aba254e6a4e8e99d985901ba65, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: CHAO.002
-    second: {fileID: 2100000, guid: 1ffaf0d36ef968745bac3746aff81d02, type: 2}
+      name: Luz
+    second: {fileID: 2100000, guid: 6a632686ce0fa4d4f8a5838d29abc387, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GRADECHAO
-    second: {fileID: 2100000, guid: e04c7903d11c4db43a53eb50cbc09d81, type: 2}
+      name: PilarSafe base
+    second: {fileID: 2100000, guid: c85aa3de694ddbb40824f1ce9ed70aa5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: LAMPADA
-    second: {fileID: 2100000, guid: 60eec84cde79bfc41a99133733d45e28, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LUZ
-    second: {fileID: 2535863370562604095, guid: 07989c73d8dfaee40b5e042e459c5285, type: 3}
+      name: SafeBaseMeio.001
+    second: {fileID: 2100000, guid: aaa6b6ebc576a06438a50ccab0307a26, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -70,7 +65,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -123,7 +118,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

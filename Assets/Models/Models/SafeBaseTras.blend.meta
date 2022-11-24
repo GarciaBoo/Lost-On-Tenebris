@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: e42142b64c9579244b1c4bef4ed382e7
+guid: f61c6231f0cdc714e9e17bb2e02ecc66
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CanosSafeBase2
-    second: {fileID: 2100000, guid: 0ec01140307c0b94b8bc7a9ef34723e0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: JanelasSafebase2
-    second: {fileID: 2100000, guid: 8a3b20aba254e6a4e8e99d985901ba65, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SafeBaseFrente1
-    second: {fileID: 2100000, guid: 43249358b7a612244af45b6e08248dd0, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
