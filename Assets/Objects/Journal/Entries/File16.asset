@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File16
+  m_EditorClassIdentifier: 
+  title: Arquivo 4
+  content: "Se acabou por aqui tamb\xE9m, ent\xE3o est\xE1 em apuros. H\xE1 um mapa
+    mais \xE0 frente, por\xE9m o corredor termina em escombros. Recomendo que d\xEA
+    meia-volta. Por\xE9m, se continua por aqui, ent\xE3o \u2014 j\xE1 que Aquilo
+    est\xE1 \xE0 espreita \u2014 irei relatar minha \xFAltima descoberta: sobre a
+    Escurid\xE3o, ela \xE9 capaz de criar alucina\xE7\xF5es em seres humanos. Estranhamente,
+    nosso capit\xE3o parecia acreditar que a Criatura era um de n\xF3s: ele deixou
+    que se aproximasse livremente, at\xE9 tentou conversar com ela. De todo modo,
+    isso nos deu tempo o bastante para fugir e prend\xEA-lo com Ela. N\xE3o nos julgue,
+    n\xE3o havia nada que pud\xE9ssemos fazer. Havia apenas uma arma, e o capit\xE3o
+    a estava carregando; n\xE3o prev\xEDamos as alucina\xE7\xF5es. De nada adiantou
+    por\xE9m. Aquilo est\xE1 \xE0 solta novamente. Bem, n\xE3o sei se \xE9, realmente,
+    apenas uma. Pode ser uma esp\xE9cie local que esteja nos ca\xE7ando. Objetivamente,
+    essa parece a hip\xF3tese mais prov\xE1vel tamb\xE9m, afinal, em conversas com
+    o pessoal que ficou para tr\xE1s nas \xE1reas de conv\xEDvio, diziam escutar
+    grunhidos na ala Oeste e, bem\u2026 a Criatura estava aqui, ent\xE3o\u2026 provavelmente,
+    h\xE1 v\xE1rias delas. H\xE1 mais uma coisa: elas parecem atacar somente no escuro:
+    parecem temer a luz. Sei que deveria relatar isso para o pessoal, mas\u2026 perdi
+    meu comunicador e acabei me separando de minha equipe. Pensei ter virado \xE0
+    direita, em dire\xE7\xE3o \xE0 porta principal, por\xE9m\u2026 suponho que virei
+    \xE0 esquerda, ainda que eu\u2026 bem, eu n\xE3o sei o que aconteceu, talvez
+    esteja alucinando tamb\xE9m. Talvez devesse ter ficado na Terra, e morrido intoxicada,
+    ou mesmo assassinada pelos rebeldes\u2026 parece melhor do que morrer por esporos
+    alien\xEDgenas, ou pelas garras de uma monstruosidade fotof\xF3bica carn\xEDvora.
+    S\xE9rio, que droga. Bem\u2026 os passos est\xE3o se aproximando, ent\xE3o suponho
+    que seja um adeus. Arrependimentos? Tenho muitos. Deveria ter sido mais aberta
+    com os meus sentimentos, talvez n\xE3o acabasse se tornando uma nerd solteirona
+    aos trinta\u2026 bem, que seja, adeus leitor e\u2026 boa sorte, voc\xEA vai precisar."

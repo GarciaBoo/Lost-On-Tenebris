@@ -13,5 +13,13 @@ MonoBehaviour:
   m_Name: File3
   m_EditorClassIdentifier: 
   title: Arquivo 3
-  content: "\"Voc\xEA n\xE3o pode evitar que a dificuldade bata \xE0 sua porta; mas
-    n\xE3o h\xE1 necessidade de oferecer-lhe uma cadeira.\"\n~ Joseph Joubert (1754-1824)"
+  content: "Diante de um cataclisma civilizat\xF3rio causado pela arrog\xE2ncia da
+    pr\xF3pria esp\xE9cie, a Humanidade se viu diante de um dilema letal: poderia
+    optar por ficar e perecer em sua terra natal, ou, em um desesperado plano de
+    sobreviv\xEAncia, enviar expedi\xE7\xF5es colonizadoras a outros exoplanetas
+    habit\xE1veis. Logo, j\xE1 em seus escassos n\xFAmeros, alguns dos poucos humanos
+    sobressalentes aceitaram o destino cruel que lhes fora reservado, ficando para
+    tr\xE1s a fim de viver seus \xFAltimos dias no conforto de suas casas. Outros,
+    entretanto, descontentes com esse final tr\xE1gico, agarraram-se \xE0 \xEDnfima
+    esperan\xE7a que lhes era apresentada e partiram em jornadas milenares rumo a
+    mundos long\xEDnquos."
