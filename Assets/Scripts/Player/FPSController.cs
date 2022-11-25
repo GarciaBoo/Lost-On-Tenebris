@@ -198,12 +198,12 @@ namespace LostOnTenebris
             this.crouching = crouchValue > 0.0f;
         }
 
-        private void OnPause()
+        public void OnPause()
         {
            Pause(true); 
         }
 
-        private void OnUnpause()
+        public void OnUnpause()
         {
             Pause(false);
         }

@@ -23,7 +23,8 @@ public class MenuLightBlink : MonoBehaviour
     {
         while (true)
         {
-            light.intensity = Random.Range(minIntensity, maxIntensity);
+            float newIntensityTarget = Random.Range(minIntensity, maxIntensity);
+            light.intensity = Mathf.MoveTowards(light.intensity, newIntensityTarget, 1.0f);
             yield return new WaitForSeconds(Random.Range(0.0f, maxRandomInterval));
         }
     }
