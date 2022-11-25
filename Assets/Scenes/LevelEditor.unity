@@ -4666,7 +4666,7 @@ MonoBehaviour:
     Path: event:/Player/Die
   Event: 
   PlayEvent: 0
-  StopEvent: 0
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 1
@@ -6133,6 +6133,14 @@ PrefabInstance:
     - target: {fileID: 1371431170, guid: fb30f749d8ec938478c3b593f0bb7fc1, type: 3}
       propertyPath: deathSound.Guid.Data4
       value: 1866272370
+      objectReference: {fileID: 0}
+    - target: {fileID: 1371431171, guid: fb30f749d8ec938478c3b593f0bb7fc1, type: 3}
+      propertyPath: StopEvent
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1371431172, guid: fb30f749d8ec938478c3b593f0bb7fc1, type: 3}
+      propertyPath: StopEvent
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1371431172, guid: fb30f749d8ec938478c3b593f0bb7fc1, type: 3}
       propertyPath: EventReference.Path
@@ -11273,16 +11281,32 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.size
-      value: 4
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1371431186}
+      objectReference: {fileID: 11400000, guid: f18da38cbfd1aa44da6974e62d240cf2, type: 2}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
@@ -11296,19 +11320,79 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 274464470}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_Target
+      value: 
+      objectReference: {fileID: 1371431186}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Add
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetLocked
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: Alert
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
       value: Play
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_MethodName
+      value: ToggleJournal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: LostOnTenebris.Journal, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: LostOnTenebris.SimpleDoor, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: HUDController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
       value: FMODUnity.StudioEventEmitter, FMODUnity
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_TargetAssemblyTypeName
+      value: LostOnTenebris.UIController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: ae9f24b9721d3574c8fecaa6ed14a308, type: 2}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_StringArgument
+      value: "o acesso aos corredores\\nagora \xE9 permitido"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_StringArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: LostOnTenebris.JournalEntry, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906389889162451286, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
+      propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[4].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6906389889248954539, guid: 094398a023e2a4a478eba401bbf3bba2, type: 3}
