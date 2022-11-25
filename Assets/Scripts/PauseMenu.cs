@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
@@ -10,6 +11,8 @@ public class PauseMenu : MonoBehaviour
     public static bool GameIsPaused = false;
     public GameObject PauseMenuUI;
     [SerializeField] FPSController playerMove;
+    [SerializeField] private EventSystem eventSystem;
+    [SerializeField] private GameObject firstSelected;
 
     private void Start()
     {
@@ -27,6 +30,7 @@ public class PauseMenu : MonoBehaviour
             }
             else
             {
+                eventSystem.SetSelectedGameObject(firstSelected);
                 Pause();
             }
         }

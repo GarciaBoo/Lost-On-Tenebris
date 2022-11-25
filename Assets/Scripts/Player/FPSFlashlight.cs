@@ -49,11 +49,6 @@ namespace LostOnTenebris
 
         private void Update()
         {
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                Recharge();
-            }
-            
             if (!isRecharging && charge.value == 0.0f)
                 Shutdown();
             
@@ -119,7 +114,6 @@ namespace LostOnTenebris
             }
 
             isRecharging = false;
-            Debug.Log("Recharged");
         }
         
         private IEnumerator Flicker()

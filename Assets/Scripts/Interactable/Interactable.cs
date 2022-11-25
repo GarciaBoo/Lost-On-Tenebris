@@ -15,6 +15,11 @@ namespace LostOnTenebris
 
         [SerializeField] private string prompt;
 
+        [SerializeField] private bool overrideOrigin;
+        [SerializeField] private Transform origin;
+
+        public Vector3 Position => overrideOrigin ? origin.position : transform.position;
+        
         private const int layer_enabled = 7;
         private const int layer_enabled_invisible = 8;
         private const int layer_disabled = 9;

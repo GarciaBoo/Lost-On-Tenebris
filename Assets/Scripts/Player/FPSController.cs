@@ -147,6 +147,11 @@ namespace LostOnTenebris
 
             return Mathf.Clamp(angle, min, max);
         }
+
+        public void SetSensitivity(float val)
+        {
+            lookSensitivity = val;
+        }
         
         // Input Handling
         private void OnMove(InputValue value)

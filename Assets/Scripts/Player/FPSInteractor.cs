@@ -13,7 +13,7 @@ namespace LostOnTenebris
         
         protected override bool CanInteract(Interactable i)
         {
-            Vector3 controllerToObj = i.transform.position - controller.Position;
+            Vector3 controllerToObj = i.Position - controller.Position;
             float distance = controllerToObj.magnitude;
             float dot = Vector3.Dot(controllerToObj.normalized, controller.LookDirection);
             return distance < maxDistance && dot > minDot;

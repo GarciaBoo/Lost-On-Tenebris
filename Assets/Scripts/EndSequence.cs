@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using DG.Tweening;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EndSequence : MonoBehaviour
 {
@@ -21,7 +22,14 @@ public class EndSequence : MonoBehaviour
             seq.Append(text[i].DOFade(1.0f, fadeTime));
             seq.AppendInterval(fadeInterval);
         }
-
         seq.Play();
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Joystick1Button7))
+        {
+            SceneManager.LoadScene(1);
+        }
     }
 }

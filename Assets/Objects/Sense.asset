@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7e42616b71642ee885fb9561a228640, type: 3}
   m_Name: Sense
   m_EditorClassIdentifier: 
-  value: 0.5
+  value: 0.1

@@ -15,10 +15,6 @@ namespace LostOnTenebris
         [SerializeField] private List<JournalButton> buttons;
         [SerializeField] private EventSystem eventSystem;
 
-        public void Awake() {
-            journal.Clear();
-        }
-
         public void ShowEntry(JournalEntry entry)
         {
             text.text = entry.content;
