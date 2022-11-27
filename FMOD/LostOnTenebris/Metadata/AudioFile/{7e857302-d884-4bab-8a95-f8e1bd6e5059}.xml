@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7e857302-d884-4bab-8a95-f8e1bd6e5059}">
+		<property name="assetPath">
+			<value>growl_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7477499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eeece331-7cd7-484e-bf5e-302987894de0}</destination>
+		</relationship>
+	</object>
+</objects>

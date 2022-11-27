@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9018d98b-9b8d-4ab0-85b7-0a6130ca3b1a}">
+		<property name="assetPath">
+			<value>Slide_Open.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3999999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eeece331-7cd7-484e-bf5e-302987894de0}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File10
+  m_EditorClassIdentifier: 
+  title: Sobreviventes
+  content: "Durante a Queda, apesar da falha cr\xEDtica do sistema, a intelig\xEAncia
+    artificial conseguiu manobrar a espa\xE7onave de modo a minimizar os danos decorrentes
+    do acidente \u2014 sacrificando algumas vidas, por\xE9m mantendo sobreviventes.
+    Nesse contexto, uma das c\xE2maras de criogenia se chocou fortemente contra o
+    ch\xE3o, eliminando todos os humanos ali presentes, excetuando-se um, al\xE9m
+    de romper a conex\xE3o do sistema com o suporte \xE0 vida do c\xF4modo. Na outra
+    c\xE2mara, por\xE9m, nenhum humano fora fatalmente ferido, e o sistema conseguira
+    emitir ordem de despertar ao suporte \xE0 vida \u2014 de modo a acordar todos
+    os ali presentes. Al\xE9m disso, havia tripulantes despertos durante o ocorrido
+    \u2014 encontravam-se ao Oeste: alguns se refugiaram nas cozinhas, nas quais
+    tentaram se proteger no interior dos arm\xE1rios, outros desesperadamente buscavam
+    por uma solu\xE7\xE3o na sala auxiliar de Engenharia, que concedia acesso emergencial
+    \xE0s turbinas. Em geral, aconselhava-se manter sempre uma equipe desperta para
+    lidar com problemas desse tipo, por\xE9m seus esfor\xE7os foram frustrados: n\xE3o
+    puderam impedir o Impacto, tampouco a entrada da Criatura.\r"

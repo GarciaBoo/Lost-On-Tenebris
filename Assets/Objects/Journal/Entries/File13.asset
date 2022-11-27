@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File13
+  m_EditorClassIdentifier: 
+  title: Guia
+  content: "Lembra-se de mim? Eu lhe dei uns n\xFAmeros, se \xE9 que os encontrou.
+    Neste lugar, eles formam uma rota, isto \xE9, a rota menos arriscada na melhor
+    das hip\xF3teses. Ao que parece, a equipe ao Leste conseguiu prender a criatura
+    no armaz\xE9m dos alimentos, junto com a sua presa, que descanse em paz. Retroceda
+    ao primeiro 1 que encontrar. A partir da\xED, v\xE1 para 2-1, e eventualmente
+    alcan\xE7ar\xE1 os geradores. Um dos ao Leste fugiu para l\xE1; ele tem a chave
+    para os alimentos. N\xE3o se preocupe, a Criatura n\xE3o est\xE1 mais l\xE1,
+    ou melhor, preocupe-se em dobro, pois ela est\xE1 a solta conosco. Como sei disso?
+    Bem, pela \xFAltima mensagem que recebi, aquela Coisa estava ca\xE7ando um dos
+    nossos l\xE1 no Leste. Como isso \xE9 poss\xEDvel? N\xE3o sei. Estou apenas registrando
+    tudo, como me foi aconselhado. Em breve, provavelmente chegar\xE1 aqui tamb\xE9m.
+    Tenho uma escopeta, mas n\xE3o acho que ser\xE1 de grande ajuda. Ah, se quiser
+    retornar \xE0 entrada dos armaz\xE9ns, pelo mesmo 1 que mencionei antes, vire
+    \xE0 direita, e depois siga para 3-1. A porta estar\xE1 \xE0 sua direita. N\xE3o
+    h\xE1 pelo qu\xEA agradecer, estou apenas tentando me distrair um pouco em meus
+    momentos finais por aqui. Espero que o lado de l\xE1 seja mais tranquilo.\r"

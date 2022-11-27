@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File4
+  m_EditorClassIdentifier: 
+  title: "Divis\xE3o"
+  content: "Ap\xF3s a Queda, o mecanismo de seguran\xE7a da Espa\xE7onave fora acionado
+    \u2014 de modo a cerrar todas as portas principais, as quais concediam acesso
+    \xE0s diferentes se\xE7\xF5es do ve\xEDculo. Tal fen\xF4meno dividiu a \xE1rea
+    de conv\xEDvio entre as alas Oeste e Leste, cada qual com seus pr\xF3prios dormit\xF3rios,
+    banheiros e demais c\xF4modos pr\xF3prios. Desse modo, os cart\xF5es de acesso
+    ficaram ao Oeste, na sala de Guarda, dispon\xEDveis a quaisquer sobreviventes
+    deste lado da Espa\xE7onave."
