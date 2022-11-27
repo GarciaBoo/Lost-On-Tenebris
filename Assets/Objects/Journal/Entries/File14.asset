@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File14
+  m_EditorClassIdentifier: 
+  title: "Sa\xEDdas"
+  content: "\u201CA vida \xE9 um labirinto. Alguns ficam vagando, procurando uma
+    sa\xEDda. Mas s\xF3 existe um caminho, que o leva para o fundo. E voc\xEA s\xF3
+    entende quando chega ao centro.\u201D (Dark)"

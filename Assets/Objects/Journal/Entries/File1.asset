@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File1
+  m_EditorClassIdentifier: 
+  title: Lanterna
+  content: "Prevendo poss\xEDveis falhas do sistema de alimenta\xE7\xE3o el\xE9trica
+    da espa\xE7onave, o modelo foi equipado com centrais de recarga providas de baterias
+    pr\xF3prias \u2014 as quais poderiam ser utilizadas, em circunst\xE2ncias emergenciais,
+    para recarregar quaisquer aparelhos el\xE9tricos. Desse modo, cada tripulante
+    tamb\xE9m fora provido com uma lanterna recarreg\xE1vel, que pode utilizar tais
+    centrais para seu reabastecimento energ\xE9tico."

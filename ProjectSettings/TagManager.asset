@@ -11,22 +11,22 @@ TagManager:
   - 
   - Water
   - UI
+  - Terrain
+  - Interactable_Enabled
+  - Interactable_Enabled_Invisible
+  - Interactable_Disabled
+  - Interactable_Disabled_Invisible
+  - TilemapPreview
   - 
   - 
   - 
+  - MainCam
+  - 
+  - PlayerArm
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - LimitLight
   - 
   - 
   - 

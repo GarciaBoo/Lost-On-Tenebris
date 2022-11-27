@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File15
+  m_EditorClassIdentifier: 
+  title: "A Escurid\xE3o"
+  content: "O ar parece mais espesso por aqui; \xE9 como se a pr\xF3pria escurid\xE3o
+    estivesse se materializando, como um v\xEDrus tentando dominar um organismo.
+    Rapidamente, preenche nossos pulm\xF5es, e a inspira\xE7\xE3o se dificulta; contra
+    ela, de nada adianta os filtros em nossos trajes. Tentei uma an\xE1lise com o
+    que tinha dispon\xEDvel. O que descobri \xE9 que h\xE1 elementos semelhantes
+    a esporos na atmosfera deste planeta, por\xE9m pequenos o bastante para penetrar
+    a filtragem arcaica de nossas vestes. De nada adianta reclamar, j\xE1 foi dif\xEDcil
+    o bastante encontrar verba o suficiente para as expedi\xE7\xF5es, n\xE3o poder\xEDamos
+    esperar por equipamentos melhores. N\xE3o sei dizer se s\xE3o patog\xEAnicos
+    para a esp\xE9cie Humana entretanto. Por ora, irei batiz\xE1-los de Escurid\xE3o:
+    parece-me apropriado.\r\n"

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ad219d70f152a4da37d77e90bcf9b5, type: 3}
+  m_Name: File12
+  m_EditorClassIdentifier: 
+  title: "Relat\xF3rio"
+  content: "Com os escombros no corredor central, nossa equipe se dividiu em duas:
+    uma foi para o Oeste, \xE0 esquerda, e a outra foi para o Leste, \xE0 direita.
+    Conseguimos trocar informa\xE7\xF5es durante um tempo antes da Criatura come\xE7ar
+    a nos ca\xE7ar; disseram que, a partir da porta de acesso aos armaz\xE9ns, ap\xF3s
+    tomar o primeiro corredor para o Leste, ao final do primeiro corredor \xE0 esquerda,
+    ainda \xE9 poss\xEDvel acessar o armaz\xE9m de alimentos. Precis\xE1vamos levar
+    esses recursos de volta aos nossos colegas nas \xE1reas de conv\xEDvio, por\xE9m
+    a equipe foi atacada nesse momento. Nosso l\xEDder aconselhou que escrev\xEAssemos
+    estes relat\xF3rios para a posteridade, a fim de ajudar quaisquer poss\xEDveis
+    equipes de resgate. Verdade seja dita, n\xE3o acredito que haver\xE1 um resgate.
+    Acredito que morreremos todos aqui. Por\xE9m, sempre fui fiel aos meus deveres,
+    ent\xE3o deixarei estas palavras registradas. Lembre-se, se quiser sair daqui,
+    a partir da porta de acesso, 3, 1, 2, 2, 2 e chegar\xE1 aos alimentos. Provavelmente,
+    a chave do dep\xF3sito central estar\xE1 l\xE1, afinal, ela estava com o pessoal
+    que escolheu a rota para o Leste. De todo modo, boa sorte, e que os deuses sejam
+    mais gentis contigo do que foram conosco.\r"
