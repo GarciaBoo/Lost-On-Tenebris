@@ -337,7 +337,7 @@ MonoBehaviour:
   - {fileID: 8392897786139833808}
   StringsBanks:
   - {fileID: 114619992723532540}
-  cacheTime: 638049477231982563
+  cacheTime: 638050945460522063
   cacheVersion: 131591
 --- !u!114 &114619992723532540
 MonoBehaviour:
@@ -354,7 +354,7 @@ MonoBehaviour:
   Path: FMOD/LostOnTenebris/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638049477231982563
+  lastModified: 638050945460522063
   FileSizes:
   - Name: Desktop
     Value: 1640
@@ -563,7 +563,7 @@ MonoBehaviour:
   Path: FMOD/LostOnTenebris/Build/Desktop/Bank A.bank
   Name: Bank A
   StudioPath: bank:/Bank A
-  lastModified: 638049477231862833
+  lastModified: 638050945460502031
   FileSizes:
   - Name: Desktop
     Value: 2484288
@@ -607,7 +607,7 @@ MonoBehaviour:
   Path: FMOD/LostOnTenebris/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638049477231962560
+  lastModified: 638050945460512000
   FileSizes:
   - Name: Desktop
     Value: 1036
